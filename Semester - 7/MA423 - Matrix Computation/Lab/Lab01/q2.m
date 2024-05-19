@@ -1,0 +1,5 @@
+A = magic(3)
+sum(A, 1)
+sum(A, 2)
+sum(diag(A))
+sum(diag(flip(A)))
